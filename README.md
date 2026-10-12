@@ -1,2 +1,2 @@
 # vfone-training
-Code and Lab repo for VFONE Training progra,
+Code and Lab repo for VFONE Training program. 
